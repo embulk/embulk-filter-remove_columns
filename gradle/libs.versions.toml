@@ -21,6 +21,8 @@ embulk-input-file = "0.10.42"
 embulk-output-file = "0.10.42"
 embulk-parser-csv = "0.10.42"
 
+checkstyle = "9.3"
+
 [libraries]
 
 embulk-spi = { group = "org.embulk", name = "embulk-spi", version.ref = "embulk-spi" }
